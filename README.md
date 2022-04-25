@@ -1,6 +1,6 @@
 # relogio_analogico
 
-A new Flutter project.
+Relógio analógico desenvolvido com Flutter.
 
 ## Getting Started
 
